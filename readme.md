@@ -37,3 +37,6 @@ need to replace pictures with images.
 3. Add in javascript file to control user interactivity with cards.
 
 # Improvements that could be made
+1. User could add comments on each card.
+2. User could add their own cards and these could be shown after moderation by a moderator.
+
