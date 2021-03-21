@@ -1,4 +1,4 @@
-# Expanding cards
+# [Expanding cards]( https://debbiect246.github.io/expanding_cards/)
 This project is a part of the 50 projects in 50 days challenge.
 I am working hard to produce 50 projects in 50 days using a udemy
 video.  I will be brushing up on my HTML, CSS and javascript skills.
